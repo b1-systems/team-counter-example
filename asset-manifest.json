@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/team-counter-example/static/css/main.19393e92.chunk.css",
+    "main.js": "/team-counter-example/static/js/main.39c1f09e.chunk.js",
+    "main.js.map": "/team-counter-example/static/js/main.39c1f09e.chunk.js.map",
+    "runtime~main.js": "/team-counter-example/static/js/runtime~main.a7810cc0.js",
+    "runtime~main.js.map": "/team-counter-example/static/js/runtime~main.a7810cc0.js.map",
+    "static/css/2.34dc3d13.chunk.css": "/team-counter-example/static/css/2.34dc3d13.chunk.css",
+    "static/js/2.95addc7e.chunk.js": "/team-counter-example/static/js/2.95addc7e.chunk.js",
+    "static/js/2.95addc7e.chunk.js.map": "/team-counter-example/static/js/2.95addc7e.chunk.js.map",
+    "index.html": "/team-counter-example/index.html",
+    "precache-manifest.fe4506e525404aad8960dd6b2729003f.js": "/team-counter-example/precache-manifest.fe4506e525404aad8960dd6b2729003f.js",
+    "service-worker.js": "/team-counter-example/service-worker.js",
+    "static/css/2.34dc3d13.chunk.css.map": "/team-counter-example/static/css/2.34dc3d13.chunk.css.map",
+    "static/css/main.19393e92.chunk.css.map": "/team-counter-example/static/css/main.19393e92.chunk.css.map",
+    "static/media/employee.png": "/team-counter-example/static/media/employee.07699de7.png",
+    "static/media/leader.png": "/team-counter-example/static/media/leader.299d95a1.png"
+  }
+}
