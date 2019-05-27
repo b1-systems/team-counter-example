@@ -2,17 +2,18 @@
   "name": "team-counter-example",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://chrystt.github.io/team-counter-example",
+  "homepage": "https://b1-systems.github.io/team-counter-example",
   "dependencies": {
     "@types/jest": "24.0.13",
     "@types/node": "12.0.2",
     "@types/react": "16.8.17",
     "@types/react-dom": "16.8.4",
+    "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
-    "team-member-counter-test": "^0.2.2",
-    "team-owner-counter-test": "^0.2.2",
+    "team-member-counter-test": "^0.2.3",
+    "team-owner-counter-test": "^0.2.3",
     "typescript": "3.4.5"
   },
   "scripts": {
